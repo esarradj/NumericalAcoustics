@@ -5,4 +5,4 @@ This repository contains [jupyter](https://jupyter.org/) notebooks that serve as
 The notebooks can be accessed:
 
 * locally on your computer (clone the repository)
-* online access will come later
+* online as [static web pages](https://nbviewer.jupyter.org/github/esarradj/NumericalAcoustics/blob/master/index.ipynb) with no interactivity
